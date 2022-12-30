@@ -7,7 +7,7 @@
 #ifndef PCH_H
 #define PCH_H
 
-// ajouter les en-têtes à précompiler ici
+// add headers to precompile here
 #include <pdcwin.h>
 
 #endif //PCH_H
