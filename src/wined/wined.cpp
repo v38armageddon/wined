@@ -1,7 +1,6 @@
 #include "pch.h"
 
-int main()
-{
+int main() {
 	initscr();
 	printw("wined");
 	refresh();
